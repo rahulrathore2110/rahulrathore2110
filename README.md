@@ -1,8 +1,8 @@
-<h1>-<center> 👋 Hi, I’m @rahulrathore2110</center></h1>
-- 👀 I’m interested in Solving problem
-- 🌱 I’m currently learning Java Backend Development
-- 💞️ I’m looking to collaborate on building some good projects
-- 📫 reach me rahulg27727@gmail.com
+<h1>-<center> 👋 Hi, I’m @rahulrathore2110</center></h1><br>
+- 👀 I’m interested in Solving problem<br>
+- 🌱 I’m currently learning Java Backend Development<br>
+- 💞️ I’m looking to collaborate on building some good projects<br>
+- 📫 reach me rahulg27727@gmail.com<br>
 
 <!---
 rahulrathore2110/rahulrathore2110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
