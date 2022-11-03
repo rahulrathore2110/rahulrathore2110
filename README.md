@@ -1,30 +1,92 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rahul Rathore</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore2110&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrathore2110" /> </p>
+<h1 align="center">Hi , I'm Rahul Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
+</div>
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <hr/>
+     <div style="display:flex">
+    <p align="left" style="max-width:40%">
+From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
 
+I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
-- 📫 How to reach me **rahulg27727@gmail.com**
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RxuYQCSzhPSjtLeMdwnr_0ewbKYCZbWo/view?usp=sharing](https://drive.google.com/file/d/1RxuYQCSzhPSjtLeMdwnr_0ewbKYCZbWo/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-rathore-075a831a0/" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.pngfind.com/pngs/m/71-712882_corporate-and-business-law-portfolio-icon-png-transparent.png)" alt="https://www.linkedin.com/in/rahul-rathore-075a831a0/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrathore2110&show_icons=true&locale=en&layout=compact" alt="rahulrathore2110" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulrathore2110&show_icons=true&locale=en" alt="rahulrathore2110" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathore2110&" alt="rahulrathore2110" /></p>
+
+
+Here are some ideas to get you started:-->
+<hr/>
+🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+
+✔️  I aspire to work as a programmer.
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+
+
+✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+<hr/>
+<h2>languge and tools</h2>
+<h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5>
+<div>
+<img src="https://thumbs.dreamstime.com/b/vector-logo-letter-c-glitch-distortion-diagonal-modern-vector-logo-letter-c-c-letter-design-vector-126107818.jpg" height="50px" width="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="50px" width="50px"/>
+<img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" height="50px" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="50px" width="50px"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.45991.14451170867457452.5130caab-3678-4c57-a404-316d66b8950e.02f1392d-5afb-4213-94a0-66877e59fce0?mode=scale&q=90&h=300&w=300" height="50px" width="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX5qY-GeZwBiFFuagdnZ7ajHBVVXuMF4r8BDy3-qLuA-nk1Pm2A9z5WfdpaLBVCMQv8Y&usqp=CAU" height="50px" width="50px"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndp6hGNdHEnGuY6sS79rMgs29ejdYmvNrj09in407znQA-XhUQUFwYi9AJKfO7dP5sEA&usqp=CAU"  height="50px" width="50px"/>
+    <img src="https://notifystatus.io/images/parent/npmjs.png" height="50px" width="50px"/>
+    <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" height="50px" width="50px"/>
+  <img src="https://logowik.com/content/uploads/images/php.jpg" height="50px" width="50px"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" height="50px" width="50px"/>
+   <img src="https://spyadav14699.github.io/portfolio/image/svgs/redux.svg" height="50px" width="50px"/>
+     <img src="https://spyadav14699.github.io/portfolio/image/svgs/nodejs.svg"  height="50px" width="50px"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50px" width="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxawt2Qdg7ZHtebe59ru7seoCCnmYtyuvZzjyk90mYpzzLDpmjzqmkrZFOeJEKPPLFnok&usqp=CAU" height="50px" width="50px"/>
+  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  height="50px" width="50px"/>
+  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"  height="50px" width="50px"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="50px" width="50px"/>
+    <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" height="50px" width="50px"/>
+     
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="50px" width="50px"/>
+
+     
+</div> 
+
+
+
+<h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
+<!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
+
+<a href="https://github.com/rahulrathore2110-cmd/github-readme-activity-graph"><img alt="chhhavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulrathore2110&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    
+
+
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore2110" alt="chhavi" /> </h3>
+  <a href="https://github.com/rahulrathore2110?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rahulrathore2110?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p><hr/>
+
+ <h2 align="left">🤝Let's Connect</h2>
+
+
+<a href="https://twitter.com/@srivastavchhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/chhavisrivastva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<p align='center'><a href="https://twitter.com/@SrivastavChhavi"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@SrivastavChhavi&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+
+<h4>Just Scan and connect🤝</h4>
+ <img src="https://user-images.githubusercontent.com/77965216/185343035-d24afd26-2ae2-4946-9866-52c18fae0667.png" height="150px" width="150px"/>
+
+</p>
+</hr>
+<a href="https://github.com/rahulrathore2110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathore2110&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
