@@ -76,8 +76,8 @@ Here are some ideas to get you started:-->
             <a href="https://cdnlogo.com/logo/hibernate_42102.html"><img src="https://cdn.cdnlogo.com/logos/h/52/hibernate.svg" width="100"></a>
             </td>
        <td width="200" height="100" align="center">
-            <span><strong>STS</strong></span><br>
-            <a href="https://cdnlogo.com/logo/aws_29177.html"><img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" width="100"></a>
+            <span><strong>Wordpress</strong></span><br>
+            <a href="https://cdnlogo.com/logo/wordpress-blue_39557.html"><img src="https://cdn.cdnlogo.com/logos/w/94/wordpress-blue.svg" width="100"></a>
             </td>
       <td width="200" height="100" align="center">
             <span><strong>VSCode</strong></span><br>
