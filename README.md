@@ -1,7 +1,6 @@
 
 
 
-
 <h1 align="center">Hi , I'm Rahul Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 
@@ -10,7 +9,7 @@
      <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore2110" alt="rahul" /> </h3>
   <a href="https://github.com/rahulrathore2110?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rahulrathore2110?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <Span><img src="https://drive.google.com/file/d/1nazue-lGoTZYvwl4g_4jkI0V1ToNKaVC/view?usp=sharing"></span>
+   <center> <img  src="IMG20221013155609 1.jpg" width="200" align="middle"></center>
          <hr/>
      <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%">
       <div style="display:flex">
