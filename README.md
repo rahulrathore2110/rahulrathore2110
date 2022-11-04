@@ -6,7 +6,7 @@
 <div align="center">
 
 </div>
-     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;Backend;Java+backend+Developer"></img></a>
      <hr/>
      <div style="display:flex">
     <p align="left" style="max-width:40%">
