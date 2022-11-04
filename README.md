@@ -9,7 +9,6 @@
      <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore2110" alt="rahul" /> </h3>
   <a href="https://github.com/rahulrathore2110?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rahulrathore2110?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <center> <img  src="profile.jpg" width="200" align="middle"></center>
          <hr/>
      <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%">
       <div style="display:flex">
