@@ -40,42 +40,52 @@ Here are some ideas to get you started:-->
 ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 <hr/>
 <h2>languge and tools</h2>
-<h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5>
-<table width="320px">
+<h5>HTML, CSS, javascript, Java, SpringBoot, Spring, Hibernate, JDBC, AWS, VSCode, STS, Github, Cnava, Linux(CLI), Wordpress,css animation</h5>
+<table>
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-            </td>
-            <td width="80px" align="center">
+            <td width="200" height="100"  align="center">
             <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <img  width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
-            <td width="80px" align="center">
+            <td width="200" height="100" align="center">
             <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
+             <td width="200" height="100"  align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <a href="https://cdnlogo.com/logo/javascript_70428.html"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" width="100"></a>
+            </td>
+            <td width="200" height="100" align="center">
+            <span><strong>Java</strong></span><br>
+           <a href="https://cdnlogo.com/logo/java_58481.html"><img src="https://cdn.cdnlogo.com/logos/j/22/java.svg" width="100"></a>
+            </td>
+             </td>
+            <td width="200" height="100" align="center">
+            <span><strong>AWS</strong></span><br>
+            <a href="https://cdnlogo.com/logo/aws_29177.html"><img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" width="100"></a>
+             </td>
         </tr>
         <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+         <td width="200" height="100" align="center">
+            <span><strong>Spring</strong></span><br>
+           <a href="https://cdnlogo.com/logo/spring_24513.html"><img src="https://cdn.cdnlogo.com/logos/s/91/spring.svg" width="100"></a>
             </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+        <td width="200" height="100" align="center">
+            <span><strong>Hibernate</strong></span><br>
+            <a href="https://cdnlogo.com/logo/hibernate_42102.html"><img src="https://cdn.cdnlogo.com/logos/h/52/hibernate.svg" width="100"></a>
             </td>
-            <td width="80px" align="center">
+       <td width="200" height="100" align="center">
+            <span><strong>STS</strong></span><br>
+            <a href="https://cdnlogo.com/logo/aws_29177.html"><img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" width="100"></a>
+            </td>
+      <td width="200" height="100" align="center">
+            <span><strong>VSCode</strong></span><br>
+            <a href="https://cdnlogo.com/logo/visual-studio-code_805.html"><img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" width="100"</a>
+            </td>
+      <td width="200" height="100" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            <a href="https://cdnlogo.com/logo/github-icon_39821.html"><img src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg" width="100"</a>
             </td>
         </tr>
     </tbody>
@@ -86,7 +96,7 @@ Here are some ideas to get you started:-->
 <h1 align="center">My Github Stats : <img src="https://identitydivision.co/wp-content/uploads/2018/12/GeorgeZen.gif" height="50px" width="50px"/> </h1>
 <!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
 
-<a href="https://github.com/rahulrathore2110-cmd/github-readme-activity-graph"><img alt="chhhavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulrathore2110&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rahulrathore2110-cmd/github-readme-activity-graph"><img alt="rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulrathore2110&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
     
 <img src="https://github-readme-stats.vercel.app/api?username=rahulrathore2110&show_icons=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathore2110"/>
@@ -97,8 +107,8 @@ Here are some ideas to get you started:-->
  <h2 align="left">🤝Let's Connect</h2>
 
 
-<a href="https://twitter.com/@rahul-rathore-075a831a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/@rahul-rathore-075a831a0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 
 <h4>Just Scan and connect🤝</h4>
