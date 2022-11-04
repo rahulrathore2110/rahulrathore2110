@@ -9,14 +9,14 @@
      <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore2110" alt="rahul" /> </h3>
   <a href="https://github.com/rahulrathore2110?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rahulrathore2110?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <center> <img  src="IMG20221013155609 1.jpg" width="200" align="middle"></center>
+   <center> <img  src="profile.jpg" width="200" align="middle"></center>
          <hr/>
      <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%">
       <div style="display:flex">
     <p align="left" style="max-width:40%">
-From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+From Haryana, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
 
-I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, javascript, Java, SpringBoot, Spring, Hibernate, JDBC, AWS, VSCode, STS, Github, Cnava, Linux(CLI), Wordpress,css animation. I am good in data structure and algorithms.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:-->
 ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
 
 
-✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+✔️ Currently looking for opportunities as a Backend developer to help me learn and grow as a web developer.
 <hr/>
 <h2>languge and tools</h2>
 <h5>HTML, CSS, javascript, Java, SpringBoot, Spring, Hibernate, JDBC, AWS, VSCode, STS, Github, Cnava, Linux(CLI), Wordpress,css animation</h5>
@@ -107,8 +107,8 @@ Here are some ideas to get you started:-->
  <h2 align="left">🤝Let's Connect</h2>
 
 
-<a href="https://twitter.com/@rahul-rathore-075a831a0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/@rahul-rathore-075a831a0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 
 <h4>Just Scan and connect🤝</h4>
