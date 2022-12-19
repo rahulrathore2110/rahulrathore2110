@@ -93,7 +93,8 @@ Here are some ideas to get you started:-->
 
 
 <h1 align="center">My Github Stats : <img src="https://identitydivision.co/wp-content/uploads/2018/12/GeorgeZen.gif" height="50px" width="50px"/> </h1>
-<!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
+
+
 
 <a href="https://github.com/rahulrathore2110-cmd/github-readme-activity-graph"><img alt="rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulrathore2110&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
     
@@ -110,8 +111,7 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 
-<h4>Just Scan and connect🤝</h4>
- <img src="https://user-images.githubusercontent.com/77965216/185343035-d24afd26-2ae2-4946-9866-52c18fae0667.png" height="150px" width="150px"/>
+
 
 </p>
 </hr>
@@ -119,4 +119,3 @@ Here are some ideas to get you started:-->
 <a href="https://github.com/rahulrathore2110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathore2110&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-Bye for now 🏃💨
