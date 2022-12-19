@@ -95,8 +95,7 @@ Here are some ideas to get you started:-->
 <h1 align="center">My Github Stats : <img src="https://identitydivision.co/wp-content/uploads/2018/12/GeorgeZen.gif" height="50px" width="50px"/> </h1>
 
 
-
-<a href="https://github.com/rahulrathore2110-cmd/github-readme-activity-graph"><img alt="rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulrathore2110&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahulrathore2110&bg_color=ffcfe9&color=9e4c98&line=a03199&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 <img src="https://github-readme-stats.vercel.app/api?username=rahulrathore2110&show_icons=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathore2110"/>
