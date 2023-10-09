@@ -27,7 +27,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 
-Here are some ideas to get you started:-->
+
 <hr/>
 <p> 🌱What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
