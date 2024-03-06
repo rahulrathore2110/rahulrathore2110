@@ -94,27 +94,26 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <h1 align="center">My Github Stats : <img src="https://identitydivision.co/wp-content/uploads/2018/12/GeorgeZen.gif" height="50px" width="50px"/> </h1>
 
+[![Rahul's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulrathore2110&bg_color=000000&color=f7e8f6&line=bc2fb2&point=e1adad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![rahul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahulrathore2110&bg_color=ffcfe9&color=9e4c98&line=a03199&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
+
 [![rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrathore2110)](https://github.com/rahulrathore2110/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathore2110"/>
 
 
-</p><hr/>
+<hr/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathore2110&theme=tokyonight)
  <h2 align="left">🤝Let's Connect</h2>
 
 
-<a href="https://twitter.com/RahulRa99236717" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/RahulRa99236717" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul" height="50" width="50"/></a>
+<a href="https://www.linkedin.com/in/rahul-rathore-075a831a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul" height="50" width="50"/></a>
 
 
 
 
 </p>
-</hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathore2110&theme=tokyonight)
 
 
