@@ -5,7 +5,7 @@
 <div align="center">
 
 </div>
-     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;Backend;Java+backend+Developer"></img></a>
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;+Micro+services+using+springboot;Docker+and+Kubernates;Data+Structure;Algorithm;Backend;Java+backend+Developer"></img></a>
      <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore2110" alt="rahul" /> </h3>
   <a href="https://github.com/rahulrathore2110?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rahulrathore2110?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -15,7 +15,9 @@
     <p align="left" style="max-width:40%">
 From Haryana, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
 
-I am skilled in HTML, CSS, javascript, Java, SpringBoot, Spring, Hibernate, JDBC, AWS, VSCode, STS, Github, Cnava, Linux(CLI), Wordpress,css animation. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, javascript, React, Java, SpringBoot, Spring, Hibernate, JDBC, AWS, VSCode, STS, Github, Cnava, Linux(CLI), Wordpress,css animation. I am good in data structure and algorithms.
+
+I an also working on microservices project using spring cloud, Docker, Kubernates, RabitMQ, Zipkin.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -31,7 +33,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <hr/>
 <p> 🌱What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-✔️  I aspire to work as a programmer.
+✔️  I an full-stack java developer worked with xcel marketing for 8 months.
 
 ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
 
